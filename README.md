@@ -2,7 +2,7 @@
 ##INFO 
 this Dockerfile run ubuntu image 
 ##DOWNLOAD
-just download **Dockerfile** 
+just download [**Dockerfile**](https://github.com/mohamedelnagm211/dockerfile-wordpress/blob/master/Dockerfile)
 
 ##BUILD 
 BUILD it by this command
