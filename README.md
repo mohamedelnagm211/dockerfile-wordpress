@@ -14,7 +14,7 @@ RUN Dockerfile by this command
 ```
 docker run -it -p 8080:80 -p 3888:3306 ubuntu_test /bin/bash
 ```
-#just one step
+#just another one step
 
 ###start apache2 and mysql 
 ````
