@@ -27,3 +27,5 @@ docker run -it -p 8080:80 -p 3888:3306 ubuntu_test /bin/bash
 now you have wordpress on your machine :)
 #Licensing
 Anybody is free to use file, but you have to give the credits to the authors
+#VERSION
+v 0.1 stable version now is v 0.2
